@@ -1,4 +1,4 @@
-# SpacedOut
+# SpacedInvaders
 
 This game requires python and pygame to be installed.
 Just run 'python alien_invasition.py' and the game should load.
